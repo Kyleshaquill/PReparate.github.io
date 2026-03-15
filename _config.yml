@@ -1,3 +1,8 @@
 title: Kyle Shaquill
-description: Flash horror and strange short stories
+description: Flash horror and strange fiction
 theme: minima
+
+header_pages:
+  - index.md
+  - about.md
+  - stories.md
