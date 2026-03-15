@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Sobre Nosotros
+layout: default
 ---
 
 <div class="full-width-banner">
