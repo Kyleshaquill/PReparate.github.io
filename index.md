@@ -1,20 +1,27 @@
 ---
-layout: default
-title: Home
+layout: page
+title: About
 ---
 
 # Kyle Shaquill
 
-Welcome to my website.
+Welcome.
 
-I write strange short stories, flash horror, and surreal fiction.
+I write strange short stories, surreal fiction, and flash horror.
 
-## Stories
+My stories explore unsettling situations, unexplained places, and psychological horror. Many of them focus on the thin boundary between reality and the unknown.
 
-- Coming soon
+## What you'll find here
 
-## About Me
+This website will contain:
 
-Writer exploring horror, strange fiction, and surreal storytelling.
+- Short stories
+- Flash horror
+- Experimental fiction
+- Writing projects
 
-More stories will appear here soon.
+## Current Work
+
+I am currently writing and publishing short fiction exploring surreal horror and strange narratives.
+
+More stories will be added soon.
