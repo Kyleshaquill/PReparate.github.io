@@ -1,11 +1,17 @@
 ---
-layout: page
-title: Stories
+layout: default
+title: About
 ---
 
-## Stories
+<section class="text-center text-light py-5"
+style="background: linear-gradient(135deg,#2b6cb0,#0a2540);">
 
-Stories will appear here soon.
+<div class="container py-5">
 
-- The Canyon That Doesn't Exist
-- The Letter from the Black Death Zone
+<h1 class="display-3 fw-bold">
+Sobre Mi
+
+<p class="lead">
+¡Un poquito sobre mí y el proyecto!
+</p>
+</h1>
