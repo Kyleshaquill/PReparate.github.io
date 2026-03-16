@@ -23,6 +23,21 @@ internados y programas académicos.
 
 </section>
 
+<!-- Background gradient -->
+
+<section style="background:
+radial-gradient(circle at 20% 30%, #e8f0ff 0%, transparent 40%),
+radial-gradient(circle at 80% 70%, #dfeaff 0%, transparent 40%),
+linear-gradient(180deg,#ffffff 0%,#f4f8ff 60%,#eaf1ff 100%);
+padding:100px 0;">
+
+<div class="container">
+
+<!-- your rows here -->
+
+</div>
+
+</section>
 
 <!-- CONTENT SECTION -->
 
