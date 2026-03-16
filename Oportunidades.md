@@ -96,6 +96,90 @@ Ver
 </td>
 </tr>
 
+<tr>
+<td>Puerto Rico NASA Space Grant Consortium</td>
+<td>Investigacion</td>
+<td>STEM</td>
+<td>Remoto</td>
+<td>
+<a href="https://sites.google.com/upr.edu/nasaprsgc/prsgc/fellowshipsscholarships" target="_blank">
+Ver
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Lspace Mission Concept Academy (MCA)</td>
+<td>Proyecto / Experiencia</td>
+<td>STEM</td>
+<td>Remoto</td>
+<td>
+<a href="https://www.lspace.asu.edu/mission-concept-academy" target="_blank">
+Ver
+</a>
+</td>
+</tr>
+
+<tr>
+<td>PRISM / JTM</td>
+<td>Conferencia</td>
+<td>STEM</td>
+<td>Puerto Rico</td>
+<td>
+<a href="https://prlsamp.upr.edu/#" target="_blank">
+Ver
+</a>
+</td>
+</tr>
+
+<tr>
+<td>ROUSS</td>
+<td>Scholarship</td>
+<td>STEM</td>
+<td>Puerto Rico</td>
+<td>
+<a href="https://prlsamp.upr.edu/undergraduate-research/" target="_blank">
+Ver
+</a>
+</td>
+</tr>
+
+<tr>
+<td>EPP Undergraduate Scholarship Program (USP)</td>
+<td>Scholarship</td>
+<td>STEM / Ciencias Sociales</td>
+<td>Depende</td>
+<td>
+<a href="https://www.noaa.gov/office-education/epp-msi/undergraduate-scholarship" target="_blank">
+Ver
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Summer Undergraduate Research Fellowship (SURF)</td>
+<td>Fellowship</td>
+<td>STEM</td>
+<td>Depende</td>
+<td>
+<a href="https://www.nist.gov/surf" target="_blank">
+Ver
+</a>
+</td>
+</tr>
+
+<tr>
+<td>GEM Fellowship Program</td>
+<td>Fellowship</td>
+<td>STEM (Maestria)</td>
+<td>Depende</td>
+<td>
+<a href="https://www.gemfellowship.org/gem-fellowship-program/" target="_blank">
+Ver
+</a>
+</td>
+</tr>
+
 </tbody>
 
 </table>
