@@ -42,8 +42,9 @@ El proyecto se llama "PRreparate!", y su objetivo es exactamente ese, ayudarte a
 </p>
 
 <p>
-Puedes añadir más párrafos, listas o enlaces según necesites.
-</p>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfbPZq-BrL2iM0sLck3sZMYm3hXtvRVL_Tju5Y8o1twRVpBtg/viewform?usp=dialog" target="_blank">
+Form para sugerencias
+</a></p>
 
 </div>
 
