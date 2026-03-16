@@ -6,12 +6,6 @@ title: Inicio
 <section class="text-center text-light py-5"
 style="background: linear-gradient(135deg,#2b6cb0,#0a2540);">
 
-<section class="soft-gradient">
-
-<div class="placeholder-box d-flex align-items-center justify-content-center">
-
-<p class="text-muted">
-Future content placeholder
 </p>
 
 </div>
@@ -32,3 +26,9 @@ internados y programas académicos.
 </div>
 
 </section>
+<section class="soft-gradient">
+
+<div class="placeholder-box d-flex align-items-center justify-content-center">
+
+<p class="text-muted">
+Future content placeholder
