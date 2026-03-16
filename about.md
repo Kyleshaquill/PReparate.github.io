@@ -8,3 +8,6 @@ style="background: linear-gradient(135deg,#2b6cb0,#0a2540);">
 
 <div class="container py-5">
 
+<h1 class="display-3 fw-bold">
+Sobre Mi
+</h1>
