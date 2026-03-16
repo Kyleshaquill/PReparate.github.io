@@ -38,7 +38,7 @@ Más sobre el proyecto
 </h3>
 
 <p>
-El proyecto se llama "PRreparate!", y su objetivo es exactamente ese, ayudarte a prepararte para tu carrera, ya que conseguir empleo o buscar escuela graduada depende de mucho más que solo tus notas, y mucho más en STEM, el cual es muy competitivo. Con el tiempo me gustaría expandir el proyecto y llegar a más personas. Espero que la página sea de buen uso y, por favor, cualquier sugerencia u observación, hágamelo saber a través. de la caja de recomendaciones.
+El proyecto se llama "PRreparate!", y su objetivo es exactamente ese, ayudarte a prepararte para tu carrera, ya que conseguir empleo o buscar escuela graduada depende de mucho más que solo tus notas, y mucho más en STEM, el cual es muy competitivo. Con el tiempo me gustaría expandir el proyecto y llegar a más personas. Espero que la página sea de buen uso y, por favor, cualquier sugerencia u observación, hágamelo saber a través del form.
 </p>
 
 <p>
