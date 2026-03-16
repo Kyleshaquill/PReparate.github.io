@@ -50,7 +50,9 @@ onkeyup="searchTable()">
 
 <tr>
 <th>Programa</th>
+<th>Tipo de Oportunidad</th>
 <th>Área</th>
+<th> País</th>
 <th>Link</th>
 </tr>
 
@@ -60,7 +62,9 @@ onkeyup="searchTable()">
 
 <tr>
 <td>NASA Internship Program</td>
-<td>Aerospace / Engineering</td>
+<td>Internado</td>
+<td>Aeroespacial / Ingeniería</td>
+<td>USA</td>
 <td>
 <a href="https://intern.nasa.gov" target="_blank">
 Ver
@@ -70,9 +74,9 @@ Ver
 
 <tr>
 <td>NSF REU Programs</td>
-<td>Research / Multiple Fields</td>
+<td>Investigacion / Multiple Areas</td>
 <td>
-<a href="https://www.nsf.gov/crssprgm/reu/" target="_blank">
+<a href="https://www.nsf.gov/funding/initiatives/reu/search" target="_blank">
 Ver
 </a>
 </td>
