@@ -44,13 +44,11 @@ Encuentra oportunidades STEM
 </h2>
 
 <p>
-Aquí irá texto describiendo cómo los estudiantes pueden encontrar
-internships, research programs, summer schools y otras oportunidades.
+Encuentra oportunidades para tu carrera profesional en STEM. Nuestro objetivo es crear un solo lugar con las oportunidades disponibles para que puedas PREPARARTE.
 </p>
 
 <p>
-Este portal organiza programas para estudiantes subgraduados
-interesados en carreras STEM.
+Hay muchas oportunidades en las cuales nosotros, puertorriqueños, podemos aplicar, pero no son fáciles de encontrar. ¡Espero que esta página pueda hacer esas oportunidades mucho más accesibles!
 </p>
 
 </div>
