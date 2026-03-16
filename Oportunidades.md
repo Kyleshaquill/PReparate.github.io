@@ -61,12 +61,12 @@ onkeyup="searchTable()">
 <tbody>
 
 <tr>
-<td>NASA Internship Program</td>
+<td>JPL Internship</td>
 <td>Internado</td>
-<td>Aeroespacial / Ingeniería</td>
+<td>Ciencias Planetarias</td>
 <td>USA</td>
 <td>
-<a href="https://intern.nasa.gov" target="_blank">
+<a href="https://www.jpl.nasa.gov/edu/internships/" target="_blank">
 Ver
 </a>
 </td>
@@ -74,7 +74,9 @@ Ver
 
 <tr>
 <td>NSF REU Programs</td>
+<td>Internado / Grant</td>
 <td>Investigacion / Multiple Areas</td>
+<td>USA / Internacional</td>
 <td>
 <a href="https://www.nsf.gov/funding/initiatives/reu/search" target="_blank">
 Ver
@@ -84,7 +86,9 @@ Ver
 
 <tr>
 <td>Google Summer of Code</td>
-<td>Computer Science</td>
+<td>Programa de desarrollo de software</td>
+<td>Computación / Software</td>
+<td>USA (En linea)</td>
 <td>
 <a href="https://summerofcode.withgoogle.com/" target="_blank">
 Ver
