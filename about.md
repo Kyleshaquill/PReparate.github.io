@@ -21,7 +21,7 @@ Sobre Mí
 </h2>
 
 <p class="lead">
-Mi nombre es Kyleshaquill Fred Velez, soy estudiante graduado en Western University en London, Ontario, Canadá, estudiando geología con especialización en ciencias planetarias. Completaré mi bachillerato en geología en 2025, y aunque tuve muchas oportunidades, muchas las encontré por suerte. Siempre tuve la idea de crear un lugar donde no solo puedes conseguir diferentes oportunidades rápido y en un solo lugar, sino también proveer recursos tales como crear un CV y resume.
+Mi nombre es Kyleshaquill Fred Velez, soy estudiante graduado en Western University en London, Ontario, Canadá, estudiando geología con especialización en ciencias planetarias. Complete mi bachillerato en geología en 2025, y aunque tuve muchas oportunidades, muchas las encontré por suerte. Siempre tuve la idea de crear un lugar donde no solo puedes conseguir diferentes oportunidades rápido y en un solo lugar, sino también proveer recursos tales como crear un CV y resume.
 </p>
 
 </div>
