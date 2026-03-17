@@ -43,8 +43,8 @@ onkeyup="searchTable()">
 
 
 <!-- TABLE -->
-
-<table class="table table-striped" id="opportunitiesTable">
+<div class="table-responsive">
+<table class="table table-striped" id="opportunitiesTable" class="btn btn-sm btn-primary">
 
 <thead>
 
@@ -66,7 +66,7 @@ onkeyup="searchTable()">
 <td>Ciencias Planetarias</td>
 <td>USA</td>
 <td>
-<a href="https://www.jpl.nasa.gov/edu/internships/" target="_blank">
+<a href="https://www.jpl.nasa.gov/edu/internships/" target="_blank" class="btn btn-sm btn-primary">
 Ver
 </a>
 </td>
@@ -78,7 +78,7 @@ Ver
 <td>Multidisciplinario</td>
 <td>USA / Internacional</td>
 <td>
-<a href="https://www.nsf.gov/funding/initiatives/reu/search" target="_blank">
+<a href="https://www.nsf.gov/funding/initiatives/reu/search" target="_blank" class="btn btn-sm btn-primary">
 Ver
 </a>
 </td>
@@ -90,7 +90,7 @@ Ver
 <td>Computación / Software</td>
 <td>USA (En linea)</td>
 <td>
-<a href="https://summerofcode.withgoogle.com/" target="_blank">
+<a href="https://summerofcode.withgoogle.com/" target="_blank" class="btn btn-sm btn-primary">
 Ver
 </a>
 </td>
@@ -102,7 +102,7 @@ Ver
 <td>Multidisciplinario</td>
 <td>Remoto</td>
 <td>
-<a href="https://sites.google.com/upr.edu/nasaprsgc/prsgc/fellowshipsscholarships" target="_blank">
+<a href="https://sites.google.com/upr.edu/nasaprsgc/prsgc/fellowshipsscholarships" target="_blank" class="btn btn-sm btn-primary">
 Ver
 </a>
 </td>
@@ -114,7 +114,7 @@ Ver
 <td>Multidisciplinario</td>
 <td>Remoto</td>
 <td>
-<a href="https://www.lspace.asu.edu/mission-concept-academy" target="_blank">
+<a href="https://www.lspace.asu.edu/mission-concept-academy" target="_blank" class="btn btn-sm btn-primary">
 Ver
 </a>
 </td>
@@ -126,7 +126,7 @@ Ver
 <td>Multidisciplinario</td>
 <td>Puerto Rico</td>
 <td>
-<a href="https://prlsamp.upr.edu/#" target="_blank">
+<a href="https://prlsamp.upr.edu/#" target="_blank" class="btn btn-sm btn-primary">
 Ver
 </a>
 </td>
@@ -138,7 +138,7 @@ Ver
 <td>Multidisciplinario</td>
 <td>Puerto Rico</td>
 <td>
-<a href="https://prlsamp.upr.edu/undergraduate-research/" target="_blank">
+<a href="https://prlsamp.upr.edu/undergraduate-research/" target="_blank" class="btn btn-sm btn-primary">
 Ver
 </a>
 </td>
@@ -150,7 +150,7 @@ Ver
 <td>STEM / Ciencias Sociales</td>
 <td>USA / PR</td>
 <td>
-<a href="https://www.noaa.gov/office-education/epp-msi/undergraduate-scholarship" target="_blank">
+<a href="https://www.noaa.gov/office-education/epp-msi/undergraduate-scholarship" target="_blank" class="btn btn-sm btn-primary">
 Ver
 </a>
 </td>
@@ -162,7 +162,7 @@ Ver
 <td>Multidisciplinario</td>
 <td>USA</td>
 <td>
-<a href="https://www.nist.gov/surf" target="_blank">
+<a href="https://www.nist.gov/surf" target="_blank" class="btn btn-sm btn-primary">
 Ver
 </a>
 </td>
@@ -174,7 +174,7 @@ Ver
 <td>Ingeniería / Ciencias Aplicadas (Maestría/PhD)</td>
 <td>USA</td>
 <td>
-<a href="https://www.gemfellowship.org/gem-fellowship-program/" target="_blank">
+<a href="https://www.gemfellowship.org/gem-fellowship-program/" target="_blank" class="btn btn-sm btn-primary">
 Ver
 </a>
 </td>
@@ -186,7 +186,7 @@ Ver
 <td>Multidisciplinario</td>
 <td>Puerto Rico</td>
 <td>
-<a href="https://www.cienciapr.org/es/unete" target="_blank">
+<a href="https://www.cienciapr.org/es/unete" target="_blank" class="btn btn-sm btn-primary">
 Ver
 </a>
 </td>
@@ -198,7 +198,7 @@ Ver
 <td>Variable / Biomedicina (subgraduado y graduado)</td>
 <td>Varia</td>
 <td>
-<a href="https://www.cienciapr.org/es/unete" target="_blank">
+<a href="https://www.cienciapr.org/es/unete" target="_blank" class="btn btn-sm btn-primary">
 Ver
 </a>
 </td>
@@ -210,7 +210,7 @@ Ver
 <td>Oceanografía / Ciencias Marinas(subgraduado y graduado)</td>
 <td>USA / PR</td>
 <td>
-<a href="https://www.noaa.gov/office-education/hollings-scholarship" target="_blank">
+<a href="https://www.noaa.gov/office-education/hollings-scholarship" target="_blank" class="btn btn-sm btn-primary">
 Ver
 </a>
 </td>
@@ -222,7 +222,7 @@ Ver
 <td>Ciencias Planetarias / Astrobiología(subgraduado y graduado)</td>
 <td>Puerto Rico</td>
 <td>
-<a href="https://phl.upr.edu/about/opportunities" target="_blank">
+<a href="https://phl.upr.edu/about/opportunities" target="_blank" class="btn btn-sm btn-primary">
 Ver
 </a>
 </td>
@@ -234,7 +234,7 @@ Ver
 <td>Biomedicina(subgraduado y graduado)</td>
 <td>USA</td>
 <td>
-<a href="https://www.training.nih.gov/research-training/pb/sip/" target="_blank">
+<a href="https://www.training.nih.gov/research-training/pb/sip/" target="_blank" class="btn btn-sm btn-primary">
 Ver
 </a>
 </td>
@@ -246,7 +246,7 @@ Ver
 <td>Energía / Física / Ingeniería(subgraduado y graduado)</td>
 <td>USA</td>
 <td>
-<a href="https://science.osti.gov/wdts/suli" target="_blank">
+<a href="https://science.osti.gov/wdts/suli" target="_blank" class="btn btn-sm btn-primary">
 Ver
 </a>
 </td>
@@ -258,7 +258,7 @@ Ver
 <td>Biología / Biomedicina(subgraduado y graduado)</td>
 <td>USA</td>
 <td>
-<a href="https://amgenscholars.com/us-program/" target="_blank">
+<a href="https://amgenscholars.com/us-program/" target="_blank" class="btn btn-sm btn-primary">
 Ver
 </a>
 </td>
