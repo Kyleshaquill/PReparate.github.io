@@ -171,7 +171,7 @@ Ver
 <tr>
 <td>GEM Fellowship Program</td>
 <td>Fellowship</td>
-<td>Ingeniería / Ciencias Aplicadas (Maestría)</td>
+<td>Ingeniería / Ciencias Aplicadas (Maestría/PhD)</td>
 <td>USA</td>
 <td>
 <a href="https://www.gemfellowship.org/gem-fellowship-program/" target="_blank">
@@ -210,7 +210,55 @@ Ver
 <td>Oceanografía / Ciencias Marinas(subgraduado y graduado)</td>
 <td>USA / PR</td>
 <td>
-<a href="https://www.cienciapr.org/es/unete" target="_blank">
+<a href="https://www.noaa.gov/office-education/hollings-scholarship" target="_blank">
+Ver
+</a>
+</td>
+</tr>
+
+<tr>
+<td>The Planetary Habitability Laboratory (PHL)</td>
+<td>Investigación</td>
+<td>Ciencias Planetarias / Astrobiología(subgraduado y graduado)</td>
+<td>Puerto Rico</td>
+<td>
+<a href="https://phl.upr.edu/about/opportunities" target="_blank">
+Ver
+</a>
+</td>
+</tr>
+
+<tr>
+<td>National Institutes of Health</td>
+<td>Internship</td>
+<td>Biomedicina(subgraduado y graduado)</td>
+<td>USA</td>
+<td>
+<a href="https://www.training.nih.gov/research-training/pb/sip/" target="_blank">
+Ver
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Science Undergraduate Laboratory Internships (SULI)</td>
+<td>Internship</td>
+<td>Energía / Física / Ingeniería(subgraduado y graduado)</td>
+<td>USA</td>
+<td>
+<a href="https://science.osti.gov/wdts/suli" target="_blank">
+Ver
+</a>
+</td>
+</tr>
+
+<tr>
+<td>AMGEN Scholars</td>
+<td>Investigacion</td>
+<td>Biología / Biomedicina(subgraduado y graduado)</td>
+<td>USA</td>
+<td>
+<a href="https://amgenscholars.com/us-program/" target="_blank">
 Ver
 </a>
 </td>
