@@ -74,7 +74,7 @@ Aprende a aplicar y navegar
 </h2>
 
 <p>
-¡Aplicar para estas oportunidades y escuelas graduadas nunca es fácil Esta página busca hacer la vida del estudiante más fácil y proveer los recursos necesarios para lograr sus objetivos en un solo lugar.
+¡Aplicar para estas oportunidades y escuelas graduadas nunca es fácil. Esta página busca hacer la vida del estudiante más fácil y proveer los recursos necesarios para lograr sus objetivos en un solo lugar.
 </p>
 
 </div>
