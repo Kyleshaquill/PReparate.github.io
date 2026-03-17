@@ -75,7 +75,7 @@ Ver
 <tr>
 <td>NSF REU Programs</td>
 <td>Internship / Grant</td>
-<td>Variable</td>
+<td>Multidisciplinario</td>
 <td>USA / Internacional</td>
 <td>
 <a href="https://www.nsf.gov/funding/initiatives/reu/search" target="_blank">
@@ -86,7 +86,7 @@ Ver
 
 <tr>
 <td>Google Summer of Code</td>
-<td>Computación / Software</td>
+<td>Programa educativo / Proyecto</td>
 <td>Computación / Software</td>
 <td>USA (En linea)</td>
 <td>
