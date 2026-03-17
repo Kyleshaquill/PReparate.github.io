@@ -99,7 +99,7 @@ Ver
 <tr>
 <td>Puerto Rico NASA Space Grant Consortium</td>
 <td>Investigacion</td>
-<td>STEM</td>
+<td>Multidisciplinario</td>
 <td>Remoto</td>
 <td>
 <a href="https://sites.google.com/upr.edu/nasaprsgc/prsgc/fellowshipsscholarships" target="_blank">
@@ -111,7 +111,7 @@ Ver
 <tr>
 <td>Lspace Mission Concept Academy (MCA)</td>
 <td>Programa educativo / Proyecto</td>
-<td>STEM</td>
+<td>Multidisciplinario</td>
 <td>Remoto</td>
 <td>
 <a href="https://www.lspace.asu.edu/mission-concept-academy" target="_blank">
@@ -123,7 +123,7 @@ Ver
 <tr>
 <td>PRISM / JTM</td>
 <td>Conferencia</td>
-<td>STEM</td>
+<td>Multidisciplinario</td>
 <td>Puerto Rico</td>
 <td>
 <a href="https://prlsamp.upr.edu/#" target="_blank">
@@ -135,7 +135,7 @@ Ver
 <tr>
 <td>ROUSS</td>
 <td>Scholarship</td>
-<td>STEM</td>
+<td>Multidisciplinario</td>
 <td>Puerto Rico</td>
 <td>
 <a href="https://prlsamp.upr.edu/undergraduate-research/" target="_blank">
