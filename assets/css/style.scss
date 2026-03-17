@@ -58,3 +58,42 @@
   transform: translateY(-10px);
   box-shadow: 0 20px 40px rgba(0,0,0,0.15);
 }
+
+/* TABLE MOBILE FIX */
+
+.table-responsive {
+  overflow-x: auto;
+}
+
+/* Hace que la tabla no se comprima demasiado */
+#opportunitiesTable {
+  min-width: 700px;
+}
+
+/* Mejor espaciado en celdas */
+#opportunitiesTable td,
+#opportunitiesTable th {
+  vertical-align: middle;
+  padding: 12px;
+}
+
+/* Botones más cómodos en móvil */
+#opportunitiesTable .btn {
+  padding: 6px 12px;
+  font-size: 0.85rem;
+}
+
+/* Ajustes específicos para pantallas pequeñas */
+@media (max-width: 768px) {
+
+  .soft-gradient {
+    padding: 60px 15px;
+  }
+
+  .placeholder-box {
+    height: 200px;
+  }
+
+}
+
+
