@@ -62,7 +62,7 @@ onkeyup="searchTable()">
 
 <tr>
 <td>JPL Internship</td>
-<td>Internado</td>
+<td>Internship</td>
 <td>Ciencias Planetarias</td>
 <td>USA</td>
 <td>
@@ -74,7 +74,7 @@ Ver
 
 <tr>
 <td>NSF REU Programs</td>
-<td>Internado / Grant</td>
+<td>Internship / Grant</td>
 <td>Investigacion / Multiple Areas</td>
 <td>USA / Internacional</td>
 <td>
@@ -86,7 +86,7 @@ Ver
 
 <tr>
 <td>Google Summer of Code</td>
-<td>Programa de desarrollo de software</td>
+<td>Programa de verano / Desarrollo de software</td>
 <td>Computación / Software</td>
 <td>USA (En linea)</td>
 <td>
@@ -110,7 +110,7 @@ Ver
 
 <tr>
 <td>Lspace Mission Concept Academy (MCA)</td>
-<td>Proyecto / Experiencia</td>
+<td>Programa educativo / Proyecto</td>
 <td>STEM</td>
 <td>Remoto</td>
 <td>
@@ -148,7 +148,7 @@ Ver
 <td>EPP Undergraduate Scholarship Program (USP)</td>
 <td>Scholarship</td>
 <td>STEM / Ciencias Sociales</td>
-<td>Depende</td>
+<td>USA / PR</td>
 <td>
 <a href="https://www.noaa.gov/office-education/epp-msi/undergraduate-scholarship" target="_blank">
 Ver
@@ -160,7 +160,7 @@ Ver
 <td>Summer Undergraduate Research Fellowship (SURF)</td>
 <td>Fellowship</td>
 <td>STEM</td>
-<td>Depende</td>
+<td>USA</td>
 <td>
 <a href="https://www.nist.gov/surf" target="_blank">
 Ver
@@ -172,9 +172,45 @@ Ver
 <td>GEM Fellowship Program</td>
 <td>Fellowship</td>
 <td>STEM (Maestria)</td>
-<td>Depende</td>
+<td>USA</td>
 <td>
 <a href="https://www.gemfellowship.org/gem-fellowship-program/" target="_blank">
+Ver
+</a>
+</td>
+</tr>
+
+<tr>
+<td>CienciaPR Semillas de Triunfo</td>
+<td>Mentoring / Education</td>
+<td>STEM</td>
+<td>Puerto Rico</td>
+<td>
+<a href="https://www.cienciapr.org/es/unete" target="_blank">
+Ver
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Foro de oportunidades en CienciaPR</td>
+<td>Variable</td>
+<td>STEM / Medicina (subgraduado y graduado)</td>
+<td>Varia</td>
+<td>
+<a href="https://www.cienciapr.org/es/unete" target="_blank">
+Ver
+</a>
+</td>
+</tr>
+
+<tr>
+<td>The Hollings Scholarship Program</td>
+<td>Variable</td>
+<td>STEM / Oceanografía (subgraduado y graduado)</td>
+<td>USA / PR</td>
+<td>
+<a href="https://www.cienciapr.org/es/unete" target="_blank">
 Ver
 </a>
 </td>
