@@ -118,16 +118,4 @@ Todo lo que necesitas para prepararte académica y profesionalmente.
 
 </div>
 </div>
-</a>
-</div>
-
-</div>
-</div>
-</a>
-</div>
-
-</div>
-
-</div>
-
 </section>
