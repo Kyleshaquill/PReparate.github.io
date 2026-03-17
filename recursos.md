@@ -121,19 +121,6 @@ Todo lo que necesitas para prepararte académica y profesionalmente.
 </a>
 </div>
 
-<!-- Puerto Rico -->
-<div class="col-md-4">
-<a href="/resources/puertorico" class="text-decoration-none text-dark">
-<div class="card h-100 shadow-sm border-0 card-hover">
-<div class="card-body text-center">
-
-<h4 class="fw-bold">Puerto Rico</h4>
-
-<ul class="list-unstyled">
-<li>Becas</li>
-<li>Programas locales</li>
-</ul>
-
 </div>
 </div>
 </a>
