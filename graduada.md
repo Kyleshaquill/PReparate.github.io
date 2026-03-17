@@ -3,9 +3,6 @@ layout: default
 title: Escuela Graduada
 </h1>
 ---
-
-<!-- HERO -->
-
 <section class="text-center text-light py-5"
 style="background: linear-gradient(135deg,#2b6cb0,#0a2540);">
 
@@ -21,9 +18,6 @@ Guías y recursos para aplicar exitosamente.
 
 </div>
 </section>
-
-
-<!-- CONTENT -->
 
 <section class="py-5">
 
