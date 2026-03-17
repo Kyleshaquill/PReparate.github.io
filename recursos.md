@@ -32,7 +32,7 @@ Todo lo que necesitas para prepararte académica y profesionalmente.
 
 <!-- Aplicaciones -->
 <div class="col-md-4">
-<a href="/resources/aplicaciones" class="text-decoration-none text-dark">
+<a href="/aplicaciones" class="text-decoration-none text-dark">
 <div class="card h-100 shadow-sm border-0 card-hover">
 <div class="card-body text-center">
 
@@ -51,7 +51,7 @@ Todo lo que necesitas para prepararte académica y profesionalmente.
 
 <!-- Investigación -->
 <div class="col-md-4">
-<a href="/resources/investigacion" class="text-decoration-none text-dark">
+<a href="/investigacion" class="text-decoration-none text-dark">
 <div class="card h-100 shadow-sm border-0 card-hover">
 <div class="card-body text-center">
 
@@ -69,7 +69,7 @@ Todo lo que necesitas para prepararte académica y profesionalmente.
 
 <!-- Escuela Graduada -->
 <div class="col-md-4">
-<a href="/resources/gradschool" class="text-decoration-none text-dark">
+<a href="/graduada" class="text-decoration-none text-dark">
 <div class="card h-100 shadow-sm border-0 card-hover">
 <div class="card-body text-center">
 
@@ -87,7 +87,7 @@ Todo lo que necesitas para prepararte académica y profesionalmente.
 
 <!-- Internships -->
 <div class="col-md-4">
-<a href="/resources/internships" class="text-decoration-none text-dark">
+<a href="/internship" class="text-decoration-none text-dark">
 <div class="card h-100 shadow-sm border-0 card-hover">
 <div class="card-body text-center">
 
@@ -105,7 +105,7 @@ Todo lo que necesitas para prepararte académica y profesionalmente.
 
 <!-- Habilidades -->
 <div class="col-md-4">
-<a href="/resources/habilidades" class="text-decoration-none text-dark">
+<a href="/habilidades" class="text-decoration-none text-dark">
 <div class="card h-100 shadow-sm border-0 card-hover">
 <div class="card-body text-center">
 
