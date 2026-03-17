@@ -11,7 +11,7 @@ style="background: linear-gradient(135deg,#2b6cb0,#0a2540);">
 <div class="container py-5">
 
 <h1 class="display-3 fw-bold">
-¡Porque tener una carrera, no debe ser difícil!
+¡Porque tener una carrera no debe ser difícil!
 </h1>
 
 <p class="lead">
