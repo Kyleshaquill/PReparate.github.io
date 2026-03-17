@@ -55,7 +55,7 @@ REUs y escuela graduada.
 </ul>
 
 <div class="mb-5">
-<a href="/assets/files/cv_template.docx" class="btn btn-primary">
+<a href="/assets/files/CV Template - PReparate!.docx" class="btn btn-primary">
 Descargar plantilla de CV
 </a>
 </div>
