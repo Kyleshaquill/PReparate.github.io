@@ -31,7 +31,7 @@ Material educativo para que puedas aplicar a oportunidades
 <h2 class="fw-bold mb-4">Contenido</h2>
 
 <p>
-Aquí irá todo el contenido sobre CV, resume, cover letters, etc.
+A continuacion una lista de los materiales que son normalmente requeridos para muchas oportunidades. Incluyen una plantilla fácil de usar; la plantilla está en "spanglish", ya que muchas oportunidades son fuera de Puerto Rico. Sin embargo, las instrucciones están en español.
 </p>
 
 <section class="py-5">
