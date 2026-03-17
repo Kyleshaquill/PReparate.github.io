@@ -75,7 +75,7 @@ Ver
 <tr>
 <td>NSF REU Programs</td>
 <td>Internship / Grant</td>
-<td>Investigacion / Multiple Areas</td>
+<td>Variable</td>
 <td>USA / Internacional</td>
 <td>
 <a href="https://www.nsf.gov/funding/initiatives/reu/search" target="_blank">
@@ -86,7 +86,7 @@ Ver
 
 <tr>
 <td>Google Summer of Code</td>
-<td>Programa de verano / Desarrollo de software</td>
+<td>Computación / Software</td>
 <td>Computación / Software</td>
 <td>USA (En linea)</td>
 <td>
@@ -159,7 +159,7 @@ Ver
 <tr>
 <td>Summer Undergraduate Research Fellowship (SURF)</td>
 <td>Fellowship</td>
-<td>STEM</td>
+<td>Multidisciplinario</td>
 <td>USA</td>
 <td>
 <a href="https://www.nist.gov/surf" target="_blank">
@@ -171,7 +171,7 @@ Ver
 <tr>
 <td>GEM Fellowship Program</td>
 <td>Fellowship</td>
-<td>STEM (Maestria)</td>
+<td>Ingeniería / Ciencias Aplicadas (Maestría)</td>
 <td>USA</td>
 <td>
 <a href="https://www.gemfellowship.org/gem-fellowship-program/" target="_blank">
@@ -183,7 +183,7 @@ Ver
 <tr>
 <td>CienciaPR Semillas de Triunfo</td>
 <td>Mentoring / Education</td>
-<td>STEM</td>
+<td>Multidisciplinario</td>
 <td>Puerto Rico</td>
 <td>
 <a href="https://www.cienciapr.org/es/unete" target="_blank">
@@ -195,7 +195,7 @@ Ver
 <tr>
 <td>Foro de oportunidades en CienciaPR</td>
 <td>Variable</td>
-<td>STEM / Medicina (subgraduado y graduado)</td>
+<td>Variable / Biomedicina (subgraduado y graduado)</td>
 <td>Varia</td>
 <td>
 <a href="https://www.cienciapr.org/es/unete" target="_blank">
@@ -207,7 +207,7 @@ Ver
 <tr>
 <td>The Hollings Scholarship Program</td>
 <td>Variable</td>
-<td>STEM / Oceanografía (subgraduado y graduado)</td>
+<td>Oceanografía / Ciencias Marinas(subgraduado y graduado)</td>
 <td>USA / PR</td>
 <td>
 <a href="https://www.cienciapr.org/es/unete" target="_blank">
