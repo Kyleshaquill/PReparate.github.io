@@ -21,9 +21,6 @@ Material educativo para que puedas aplicar a oportunidades
 </div>
 </section>
 
-
-<!-- CONTENT -->
-
 <section class="py-5">
 
 <div class="container">
