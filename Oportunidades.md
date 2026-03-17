@@ -13,7 +13,7 @@ Oportunidades en STEM
 </h1>
 
 <p class="lead">
-Programas, internships y oportunidades para estudiantes de Puerto Rico.
+Programas, internships y oportunidades para estudiantes de Puerto Rico. Todas las oportunidades son añadidas manualmente por mí; de tener alguna otra oportunidad, ¡favor de dejarme saber a través de sugerencias!
 </p>
 
 </div>
