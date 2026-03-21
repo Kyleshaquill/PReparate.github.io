@@ -40,6 +40,55 @@ es completamente financiado. Una maestría suele durar 1–2 años y puede ser
 profesional o investigativa.
 </p>
 
+<!-- TIPOS DE MAESTRIA -->
+
+<h2 class="fw-bold mt-5">Tipos de maestría</h2>
+
+<p>
+No todas las maestrías son iguales. Es importante entender qué tipo estás considerando,
+ya que esto afecta tus oportunidades futuras.
+</p>
+
+<h4 class="fw-bold mt-4">Maestría académica (con tesis)</h4>
+
+<p>
+Este tipo de maestría incluye investigación y normalmente requiere escribir una tesis.
+Es la mejor opción si planeas hacer un PhD en el futuro.
+</p>
+
+<ul>
+<li>Incluye investigación</li>
+<li>Requiere tesis</li>
+<li>Mejor preparación para PhD</li>
+</ul>
+
+
+<h4 class="fw-bold mt-4">Maestría profesional (sin tesis)</h4>
+
+<p>
+Está enfocada en cursos y habilidades prácticas. Es ideal si quieres entrar a la industria
+y no necesariamente seguir con un doctorado.
+</p>
+
+<ul>
+<li>No requiere tesis</li>
+<li>Más clases que investigación</li>
+<li>Enfocada en empleo</li>
+</ul>
+
+
+<h4 class="fw-bold mt-4">Maestrías especializadas</h4>
+
+<p>
+Programas enfocados en áreas específicas como Data Science, Ingeniería, o Negocios.
+Suelen ser prácticos y orientados al mercado laboral.
+</p>
+
+<ul>
+<li>Enfoque específico</li>
+<li>Alta demanda en la industria</li>
+<li>Generalmente no financiadas</li>
+</ul>
 
 <!-- TIMELINE -->
 
