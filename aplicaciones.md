@@ -106,7 +106,4 @@ para una oportunidad específica.
 <li>Adapta tu resume a cada aplicación</li>
 <li>Pide feedback a profesores</li>
 </ul>
-
-</div>
-
 </section>
