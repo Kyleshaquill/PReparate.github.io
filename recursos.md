@@ -49,24 +49,6 @@ Todo lo que necesitas para prepararte académica y profesionalmente.
 </a>
 </div>
 
-<!-- Investigación -->
-<div class="col-md-4">
-<a href="/investigacion" class="text-decoration-none text-dark">
-<div class="card h-100 shadow-sm border-0 card-hover">
-<div class="card-body text-center">
-
-<h4 class="fw-bold">Investigación</h4>
-
-<ul class="list-unstyled">
-<li>Cómo empezar en research</li>
-<li>Contactar profesores</li>
-</ul>
-
-</div>
-</div>
-</a>
-</div>
-
 <!-- Escuela Graduada -->
 <div class="col-md-4">
 <a href="/graduada" class="text-decoration-none text-dark">
