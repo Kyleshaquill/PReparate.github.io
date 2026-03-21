@@ -15,7 +15,7 @@ Guía de Escuela Graduada
 </h1>
 
 <p class="lead">
-Todo lo que necesitas para aplicar a maestría o PhD en STEM.
+Una guía clara para aplicar a maestría o PhD en STEM.
 </p>
 
 </div>
@@ -26,111 +26,117 @@ Todo lo que necesitas para aplicar a maestría o PhD en STEM.
 
 <section style="background: linear-gradient(180deg,#ffffff 0%,#f4f8ff 100%); padding:80px 0;">
 
-<div class="container">
+<div class="container" style="max-width:900px;">
 
-<div class="row g-4">
 
-<!-- CARD 1 -->
-<div class="col-md-4">
-<div class="card h-100 shadow-sm border-0 card-hover">
-<div class="card-body">
+<!-- QUE ES -->
 
-<h4 class="fw-bold text-center">¿Qué es?</h4>
+<h2 class="fw-bold">¿Qué es escuela graduada?</h2>
 
 <p>
-Aprende la diferencia entre maestría y PhD, duración y expectativas.
+La escuela graduada incluye programas de maestría (MS) y doctorado (PhD).
+Un PhD usualmente dura 4–6 años y está enfocado en investigación. En muchos casos,
+es completamente financiado. Una maestría suele durar 1–2 años y puede ser
+profesional o investigativa.
 </p>
 
-</div>
-</div>
-</div>
 
-<!-- CARD 2 -->
-<div class="col-md-4">
-<div class="card h-100 shadow-sm border-0 card-hover">
-<div class="card-body">
+<!-- TIMELINE -->
 
-<h4 class="fw-bold text-center">Timeline</h4>
+<h2 class="fw-bold mt-5">Timeline recomendado</h2>
+
+<p>
+Aplicar a escuela graduada toma tiempo. Este es un timeline típico:
+</p>
 
 <ul>
-<li>1 año antes: Investigar programas</li>
-<li>6 meses: Contactar profesores</li>
-<li>3 meses: Aplicar</li>
+<li><strong>1 año antes:</strong> Investigar programas y áreas de interés.</li>
+<li><strong>6–8 meses antes:</strong> Contactar profesores.</li>
+<li><strong>3–4 meses antes:</strong> Preparar documentos (CV, SOP).</li>
+<li><strong>Deadline:</strong> Enviar aplicaciones (usualmente diciembre–enero).</li>
 </ul>
 
-</div>
-</div>
-</div>
 
-<!-- CARD 3 -->
-<div class="col-md-4">
-<div class="card h-100 shadow-sm border-0 card-hover">
-<div class="card-body">
+<!-- REQUISITOS -->
 
-<h4 class="fw-bold text-center">Requisitos</h4>
+<h2 class="fw-bold mt-5">Requisitos comunes</h2>
 
 <ul>
-<li>GPA</li>
-<li>Cartas de recomendación</li>
+<li>GPA (usualmente 3.0+)</li>
+<li>Cartas de recomendación (2–3)</li>
 <li>Statement of Purpose</li>
 <li>CV académico</li>
 </ul>
 
-</div>
-</div>
-</div>
-
-<!-- CARD 4 -->
-<div class="col-md-4">
-<div class="card h-100 shadow-sm border-0 card-hover">
-<div class="card-body">
-
-<h4 class="fw-bold text-center">Aplicación</h4>
-
-<ul>
-<li>Cómo escribir SOP</li>
-<li>Cómo pedir cartas</li>
-<li>Elegir programas</li>
-</ul>
-
-</div>
-</div>
-</div>
-
-<!-- CARD 5 -->
-<div class="col-md-4">
-<div class="card h-100 shadow-sm border-0 card-hover">
-<div class="card-body">
-
-<h4 class="fw-bold text-center">Financiamiento</h4>
-
-<ul>
-<li>PhD financiado</li>
-<li>Fellowships</li>
-<li>Assistantships</li>
-</ul>
-
-</div>
-</div>
-</div>
-
-<!-- CARD 6 -->
-<div class="col-md-4">
-<div class="card h-100 shadow-sm border-0 card-hover">
-<div class="card-body">
-
-<h4 class="fw-bold text-center">Contactar Profesores</h4>
-
 <p>
-Aprende cómo escribir emails efectivos y conseguir respuestas.
+Algunos programas ya no requieren GRE, pero depende de la universidad.
 </p>
 
-</div>
-</div>
-</div>
+
+<!-- SOP -->
+
+<h2 class="fw-bold mt-5">Statement of Purpose (SOP)</h2>
+
+<p>
+El SOP es uno de los documentos más importantes. Aquí explicas:
+</p>
+
+<ul>
+<li>Tu experiencia en investigación</li>
+<li>Por qué te interesa ese campo</li>
+<li>Tus metas a futuro</li>
+</ul>
+
+<p>
+Debe ser claro, específico y honesto. Evita escribir cosas genéricas.
+</p>
+
+
+<!-- CONTACTAR PROFESORES -->
+
+<h2 class="fw-bold mt-5">Cómo contactar profesores</h2>
+
+<p>
+Contactar profesores puede aumentar tus probabilidades de admisión,
+especialmente para PhD.
+</p>
+
+<p><strong>Ejemplo de email:</strong></p>
+
+<pre>
+Subject: Prospective student interested in your research
+
+Dear Dr. [Apellido],
+
+My name is [Tu nombre], and I am an undergraduate student from Puerto Rico
+studying [tu área]. I am very interested in your work on [tema específico].
+
+I would like to know if you are accepting students for the upcoming cycle.
+
+Best regards,
+[Tu nombre]
+</pre>
+
+
+<!-- FINANCIAMIENTO -->
+
+<h2 class="fw-bold mt-5">Financiamiento</h2>
+
+<p>
+Muchos programas de PhD en STEM en Estados Unidos están completamente financiados.
+Esto significa:
+</p>
+
+<ul>
+<li>Matrícula cubierta</li>
+<li>Estipendio mensual</li>
+<li>Seguro médico</li>
+</ul>
+
+<p>
+Las maestrías usualmente no son financiadas, pero existen becas y assistantships.
+</p>
+
 
 </div>
-
-</div>
-
 </section>
