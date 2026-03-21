@@ -91,11 +91,11 @@ Todo lo que necesitas para prepararte académica y profesionalmente.
 <div class="card h-100 shadow-sm border-0 card-hover">
 <div class="card-body text-center">
 
-<h4 class="fw-bold">Internships</h4>
+<h4 class="fw-bold">Oportunidades y Financiamiento</h4>
 
 <ul class="list-unstyled">
-<li>Cómo aplicar</li>
-<li>Tips de entrevista</li>
+<li>¿Qué son?</li>
+<li>Cual aplicar</li>
 </ul>
 
 </div>
